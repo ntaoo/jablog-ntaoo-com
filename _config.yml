@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            ntaoo blog ja
+tagline:          ntaoo blog in Japanese.
+description:      ntaoo blog in Japanese.
+canonical: http://jablog.ntaoo.com
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           ntaoo
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            ""
+  email:          ntaoo.g@gmail.com
+  twitter:        ntaoo
+  github:         ntaoo
+  instagram:
+  dribbble:
+  disqus:
+  location:       "Tokyo"
   # Plug in your disqus shortname!
 
 tools:
@@ -24,17 +24,12 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+    url: https://github.com/ntaoo
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Tokyo
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -57,7 +52,7 @@ sass:
     style: :compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink: pretty
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
