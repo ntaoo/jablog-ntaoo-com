@@ -3,7 +3,7 @@ layout: post-no-feature
 title: "Google Cloud StorageでCustom DomainのJekyll Static Siteを公開する手順のメモ"
 description: ""
 category: articles
-tags: [gcp]
+tags: [GCP]
 ---
 
 ### 前提

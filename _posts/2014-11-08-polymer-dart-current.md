@@ -3,7 +3,7 @@ layout: post-no-feature
 title: "PolymerDartについて"
 description: "先日、Dart現状確認会でPolymerDartについて共有した。その補足説明をここに残す。"
 category: articles
-tags: [dart]
+tags: [Dart]
 ---
 
 [http://connpass.com/event/9562/](http://connpass.com/event/9562/)
